@@ -19,8 +19,8 @@ include Makefile.config
 
 # External subpackages
 EMUDBG_GIT=https://github.com/dciabrin/emudbg
-GNGEO_GIT=https://github.com/dciabrin/gngeo -b macport
-TOOLCHAIN_GIT=https://github.com/dciabrin/ngdevkit-toolchain -b macport
+GNGEO_GIT=https://github.com/psxdev/gngeo -b macport
+TOOLCHAIN_GIT=https://github.com/psxdev/ngdevkit-toolchain -b macport
 EXAMPLES_GIT=https://github.com/dciabrin/ngdevkit-examples
 
 
